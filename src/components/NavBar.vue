@@ -1,10 +1,10 @@
 <template>
     <header class="bg-deep-dark-purple">
         <nav class="flex flex-row gap-80 items-center" >
-            <div class="text-white h-7 m-10 px-7 text-4xl font-bold">
+            <div class="text-white h-7  px-7 text-4xl font-bold ml-24">
                 get<span class="text-dark-purple">linked</span>
             </div>
-            <div class="text-white w-2/4 flex justify-around h-9 items-center hover:group-hover:text-black">
+            <div class="text-white w-2/4 flex justify-around h-9 items-center mt-10 mb-10">
                 <a href="#" class="hover:text-primary-colour">Timeline</a>
                 <a href="#" class="hover:text-primary-colour">Overview</a>
                 <a href="#" class="hover:text-primary-colour">FAQs</a>
